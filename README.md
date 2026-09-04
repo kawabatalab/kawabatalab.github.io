@@ -1,1 +1,0 @@
-# kawabatalab.github.io

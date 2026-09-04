@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>kawabatalab</title>
+    <link href="https://kawabatalab.github.io/feed.xml" rel="self" />
+    <link href="https://kawabatalab.github.io" />
+    <updated>2026-09-04T13:16:40+09:00</updated>
+    <author>
+        <name>kawabatalab</name>
+    </author>
+    <id>https://kawabatalab.github.io</id>
+
+    <entry>
+        <title>2026 山登り 甲斐駒ヶ岳</title>
+        <author>
+            <name>kawabatalab</name>
+        </author>
+        <link href="https://kawabatalab.github.io/26kaikoma.html"/>
+        <id>https://kawabatalab.github.io/26kaikoma.html</id>
+        <media:content url="https://kawabatalab.github.io/media/posts/11/IMG_3970.jpg" medium="image" />
+            <category term="News"/>
+
+        <updated>2026-09-03T12:00:00+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://kawabatalab.github.io/media/posts/11/IMG_3970.jpg" alt="" />
+                    研究室の有志で甲斐駒ヶ岳に登りました。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://kawabatalab.github.io/media/posts/11/IMG_3970.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    研究室の有志で甲斐駒ヶ岳に登りました。
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://kawabatalab.github.io/media/posts/11/gallery/IMG_3844.jpg" data-size="3024x4032">
+        <img loading="lazy" src="https://kawabatalab.github.io/media/posts/11/gallery/IMG_3844-thumbnail.jpg" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://kawabatalab.github.io/media/posts/11/gallery/PXL_20260902_032435101.jpg" data-size="3472x4624">
+        <img loading="lazy" src="https://kawabatalab.github.io/media/posts/11/gallery/PXL_20260902_032435101-thumbnail.jpg" height="1023" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://kawabatalab.github.io/media/posts/11/gallery/IMG20260903062659.jpg" data-size="3072x4096">
+        <img loading="lazy" src="https://kawabatalab.github.io/media/posts/11/gallery/IMG20260903062659-thumbnail.jpg" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://kawabatalab.github.io/media/posts/11/gallery/IMG20260903072530.jpg" data-size="3468x4624">
+        <img loading="lazy" src="https://kawabatalab.github.io/media/posts/11/gallery/IMG20260903072530-thumbnail.jpg" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://kawabatalab.github.io/media/posts/11/gallery/IMG_3970.jpg" data-size="5712x4284">
+        <img loading="lazy" src="https://kawabatalab.github.io/media/posts/11/gallery/IMG_3970-thumbnail.jpg" height="576" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://kawabatalab.github.io/media/posts/11/gallery/IMG_3964.jpg" data-size="5712x4284">
+        <img loading="lazy" src="https://kawabatalab.github.io/media/posts/11/gallery/IMG_3964-thumbnail.jpg" height="576" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>河端研究室のWebサイトをリニューアルオープンしました</title>
+        <author>
+            <name>kawabatalab</name>
+        </author>
+        <link href="https://kawabatalab.github.io/renewal.html"/>
+        <id>https://kawabatalab.github.io/renewal.html</id>
+            <category term="News"/>
+
+        <updated>2026-09-01T12:00:00+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    河端研究室のWebサイトをリニューアルオープンしました。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    河端研究室のWebサイトをリニューアルオープンしました。
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kawabatalab.github.io/sitemap.xml
