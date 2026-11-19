@@ -3,12 +3,74 @@
     <title>kawabatalab</title>
     <link href="https://kawabatalab.github.io/feed.xml" rel="self" />
     <link href="https://kawabatalab.github.io" />
-    <updated>2026-11-10T16:31:32+09:00</updated>
+    <updated>2026-11-19T13:54:02+09:00</updated>
     <author>
         <name>kawabatalab</name>
     </author>
     <id>https://kawabatalab.github.io</id>
 
+    <entry>
+        <title>2026 ゼミ旅行 in 福井</title>
+        <author>
+            <name>kawabatalab</name>
+        </author>
+        <link href="https://kawabatalab.github.io/26zemitrip.html"/>
+        <id>https://kawabatalab.github.io/26zemitrip.html</id>
+        <media:content url="https://kawabatalab.github.io/media/posts/14/IMG20260915180530.jpg" medium="image" />
+            <category term="News"/>
+
+        <updated>2026-09-14T15:51:00+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://kawabatalab.github.io/media/posts/14/IMG20260915180530.jpg" alt="" />
+                    ゼミ旅行で福井に行ってきました。 博物館見学、座禅体験を行いました。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://kawabatalab.github.io/media/posts/14/IMG20260915180530.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    ゼミ旅行で福井に行ってきました。
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="2">
+      <figure class="gallery__item">
+      <a href="https://kawabatalab.github.io/media/posts/14/gallery/IMG20260914110126.jpg" data-size="4624x3468">
+        <img loading="lazy" src="https://kawabatalab.github.io/media/posts/14/gallery/IMG20260914110126-thumbnail.jpg" height="576" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://kawabatalab.github.io/media/posts/14/gallery/000024.jpg" data-size="2211x1535">
+        <img loading="lazy" src="https://kawabatalab.github.io/media/posts/14/gallery/000024-thumbnail.jpg" height="533" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://kawabatalab.github.io/media/posts/14/gallery/IMG20260914114120.jpg" data-size="4624x3468">
+        <img loading="lazy" src="https://kawabatalab.github.io/media/posts/14/gallery/IMG20260914114120-thumbnail.jpg" height="576" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://kawabatalab.github.io/media/posts/14/gallery/IMG20260915170252.jpg" data-size="4624x3468">
+        <img loading="lazy" src="https://kawabatalab.github.io/media/posts/14/gallery/IMG20260915170252-thumbnail.jpg" height="576" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://kawabatalab.github.io/media/posts/14/gallery/IMG_4412.JPG" data-size="2400x1600">
+        <img loading="lazy" src="https://kawabatalab.github.io/media/posts/14/gallery/IMG_4412-thumbnail.JPG" height="512" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+  <p>
+    博物館見学、座禅体験を行いました。
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>2026 山登り 甲斐駒ヶ岳</title>
         <author>
